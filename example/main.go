@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	print.Print("test")
+	logda.Print("test")
 }
